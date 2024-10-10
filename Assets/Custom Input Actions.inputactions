@@ -1,0 +1,34 @@
+{
+    "name": "Custom Input Actions",
+    "maps": [
+        {
+            "name": "Pause Menu",
+            "id": "6ad3d09d-07f5-44b4-97f8-517eaff732aa",
+            "actions": [
+                {
+                    "name": "PausePressed",
+                    "type": "Button",
+                    "id": "ba51cf68-90e6-40ee-93de-12e038db5222",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "613b13a9-36ee-4050-8ec7-601806ff20a9",
+                    "path": "<XRController>{LeftHand}/menu",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PausePressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

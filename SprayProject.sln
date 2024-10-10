@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{46943DA0-BDCF-A0BD-94B7-696EB7603BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6A0CC569-4902-561B-7686-41F619E23209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard", "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.csproj", "{32A320D6-0220-8D8D-45ED-B2160A6DDAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meryel.CodeAssist.Editor", "Meryel.CodeAssist.Editor.csproj", "{421FEADB-1AD1-C0C6-F0E5-E4D89030B5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor", "Unity.XR.Interaction.Toolkit.Samples.SpatialKeyboard.Editor.csproj", "{9E72D744-5CC1-7218-CAEE-1580A9DD64E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{C90D352B-5C6E-EC3A-B352-D22F34DAF7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{074C801C-3797-5D4E-F43E-B5B241B846CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46943DA0-BDCF-A0BD-94B7-696EB7603BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46943DA0-BDCF-A0BD-94B7-696EB7603BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46943DA0-BDCF-A0BD-94B7-696EB7603BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46943DA0-BDCF-A0BD-94B7-696EB7603BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0CC569-4902-561B-7686-41F619E23209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0CC569-4902-561B-7686-41F619E23209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0CC569-4902-561B-7686-41F619E23209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0CC569-4902-561B-7686-41F619E23209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A320D6-0220-8D8D-45ED-B2160A6DDAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A320D6-0220-8D8D-45ED-B2160A6DDAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A320D6-0220-8D8D-45ED-B2160A6DDAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A320D6-0220-8D8D-45ED-B2160A6DDAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421FEADB-1AD1-C0C6-F0E5-E4D89030B5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421FEADB-1AD1-C0C6-F0E5-E4D89030B5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421FEADB-1AD1-C0C6-F0E5-E4D89030B5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421FEADB-1AD1-C0C6-F0E5-E4D89030B5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E72D744-5CC1-7218-CAEE-1580A9DD64E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E72D744-5CC1-7218-CAEE-1580A9DD64E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E72D744-5CC1-7218-CAEE-1580A9DD64E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E72D744-5CC1-7218-CAEE-1580A9DD64E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90D352B-5C6E-EC3A-B352-D22F34DAF7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90D352B-5C6E-EC3A-B352-D22F34DAF7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90D352B-5C6E-EC3A-B352-D22F34DAF7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90D352B-5C6E-EC3A-B352-D22F34DAF7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074C801C-3797-5D4E-F43E-B5B241B846CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074C801C-3797-5D4E-F43E-B5B241B846CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074C801C-3797-5D4E-F43E-B5B241B846CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074C801C-3797-5D4E-F43E-B5B241B846CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
